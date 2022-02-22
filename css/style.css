@@ -4,6 +4,10 @@ section {
   margin-bottom: 30px;
 }
 
+.location {
+  margin-bottom: 0px;
+}
+
 .color-white {
   color: white;
 }
@@ -50,4 +54,12 @@ section {
 
 .height-200px {
   height: 200px;
+}
+
+.font-size-13px {
+  font-size: 13px;
+}
+
+.text-align-center {
+  text-align: center;
 }
