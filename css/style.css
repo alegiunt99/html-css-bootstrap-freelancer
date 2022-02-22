@@ -12,6 +12,34 @@
   background-color: rgb(68, 201, 157);
 }
 
+.bg-red {
+  background-color: rgb(126, 23, 43);
+}
+
+.bg-blue {
+  background-color: rgb(35, 93, 252);
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.bg-orange {
+  background-color: orange;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.bg-purple {
+  background-color: purple;
+}
+
 .height-400px {
   height: 400px;
+}
+
+.height-200px {
+  height: 200px;
 }
