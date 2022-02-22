@@ -8,6 +8,10 @@ section {
   color: white;
 }
 
+.bg-gray {
+  background-color: gray;
+}
+
 .bg-darkblue {
   background-color: rgb(5 51 80);
 }
