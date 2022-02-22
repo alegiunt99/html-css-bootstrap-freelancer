@@ -7,3 +7,11 @@
 .bg-darkblue {
   background-color: rgb(5 51 80);
 }
+
+.bg-greenblue {
+  background-color: rgb(68, 201, 157);
+}
+
+.height-400px {
+  height: 400px;
+}
