@@ -87,3 +87,12 @@ img {
 .ag-border-radius-20px {
   border-radius: 20px;
 }
+
+.ag-padding-t-20px {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.ag-margin-bottom-15px {
+  margin-bottom: 20px;
+}
