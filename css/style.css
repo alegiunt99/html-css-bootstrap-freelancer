@@ -80,6 +80,10 @@ img {
   font-size: 19px;
 }
 
-.ag-width-50 {
-  width: 50%;
+.ag-width-400px {
+  max-width: 400px;
+}
+
+.ag-border-radius-20px {
+  border-radius: 20px;
 }
