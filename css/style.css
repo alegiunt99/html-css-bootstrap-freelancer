@@ -8,6 +8,21 @@ img {
   width: 100%;
 }
 
+#social-media .fa-brands {
+  font-size: 12px;
+  border: 1px solid white;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+#social-media .fa-facebook-f {
+  padding: 10px 12px;
+}
+
+#social-media .fa-google-plus-g {
+  padding: 10px 8px;
+}
+
 .location {
   margin-bottom: 0px;
 }
@@ -33,7 +48,7 @@ img {
 }
 
 .bg-blue {
-  background-color: rgb(35, 93, 252);
+  background-color: rgb(9 85 133);
 }
 
 .bg-black {
@@ -110,4 +125,8 @@ img {
 
 .ag-background-0 {
   background: none;
+}
+
+.ag-font-size-15px {
+  font-size: 15px;
 }
