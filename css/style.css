@@ -96,3 +96,18 @@ img {
 .ag-margin-bottom-15px {
   margin-bottom: 20px;
 }
+.ag-border-bottom-gray {
+  border-bottom: 1px solid rgb(160, 160, 160);
+}
+
+.ag-border-none {
+  border: none;
+}
+
+.ag-padding-0 {
+  padding: 0;
+}
+
+.ag-background-0 {
+  background: none;
+}
