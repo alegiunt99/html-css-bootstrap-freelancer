@@ -4,6 +4,10 @@ section {
   margin-bottom: 30px;
 }
 
+img {
+  width: 100%;
+}
+
 .location {
   margin-bottom: 0px;
 }
@@ -62,4 +66,20 @@ section {
 
 .text-align-center {
   text-align: center;
+}
+
+.border-2px {
+  border: 2px solid;
+}
+
+.ag-margin-20-0 {
+  margin: 20px 0px;
+}
+
+.ag-font-size-19px {
+  font-size: 19px;
+}
+
+.ag-width-50 {
+  width: 50%;
 }
